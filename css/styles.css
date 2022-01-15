@@ -1,0 +1,48 @@
+body {
+    background-color: lightgoldenrodyellow;
+    cursor: grabbing;
+}
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    color: maroon;
+    border-style: solid;
+}
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+    text-align: center;
+    color: maroon;
+}
+p {
+    text-align: center;
+    color: maroon;
+}
+img {
+    text-align: center;
+    color: maroon;
+    border-style: solid;
+    border-radius: 5%;
+}
+hr {
+    background-color: maroon;
+    border: none;
+    height: 2px;
+}
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    text-align: center;
+    color: maroon;
+}
+a {
+    text-align: center;
+    color: maroon;
+}
+
+ul {
+    color: maroon;
+    display: table;
+    margin: 0 auto;
+}
